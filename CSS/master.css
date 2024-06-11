@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(239, 255, 254);
+}
+
+h1 {
+    color: rgb(223, 202, 202);
+}
+
+h2{
+    color: darkmagenta;
+}
+
+table[colorOn = "true"]{
+    color: blueviolet;
+}
+s
+p{
+    color: darkkhaki;
+}
+
+li{
+    color:rgb(98, 55, 96);
+}
+
+.crs{
+    color: darkblue;
+}
+
+
+header {
+    background-color: darkmagenta;
+}
+
+footer{
+    background-color: darkmagenta;
+}
